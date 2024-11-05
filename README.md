@@ -10,7 +10,7 @@ Sorting Visualizer is a web-based application that visually demonstrates various
 - Responsive design for different screen sizes.
 
 ## Demo
-[[Live Demo Link (if applicable)]](https://vivekchaurasiya12.github.io/Sorting-Visulaliszer/#)
+https://vivekchaurasiya12.github.io/Sorting-Visulaliszer/#
 
 ## Technologies Used
 - **HTML**: For the structure of the web application.
